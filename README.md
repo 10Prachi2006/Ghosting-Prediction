@@ -159,10 +159,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📬 Author
+### 🤝 Let's Connect
 
-Built by **YOUR_NAME** · [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+I'm always open to collaborating on open-source projects or discussing new opportunities.
 
----
+**LinkedIn: www.linkedin.com/in/prachi-yadav-60466b343** 
 
-*Drop your situation in the comments ➜  I'll tell you what the model says 👇*
+**Developed with ❤️ by Prachi Yadav**
+
+</div>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Author:
+
+### Prachi Yadav.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
