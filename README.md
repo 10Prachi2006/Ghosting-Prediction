@@ -4,7 +4,7 @@
 
 An ML-powered relationship reality check that predicts whether someone will reply ➜  and whether you're being ghosted ➜  based on conversation signals.
 
-**Live Demo:** [ghosting-predictor.hf.space](https://prachisandipkumar-ghostingprediction101.hf.space)
+**Live Demo (HuggingFace🤗): ** [ghosting-predictor.hf.space](https://prachisandipkumar-ghostingprediction101.hf.space)
 
 ---
 
